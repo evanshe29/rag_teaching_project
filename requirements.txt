@@ -1,0 +1,8 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+langchain
+langchain-openai
+openai
+tqdm
+keybert
