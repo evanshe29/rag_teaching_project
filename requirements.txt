@@ -6,3 +6,4 @@ langchain-openai
 openai
 tqdm
 keybert
+unstructured[local-inference,pdf] 
