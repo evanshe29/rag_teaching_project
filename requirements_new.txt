@@ -1,0 +1,7 @@
+mineru[core]
+sentence-transformers
+openai
+python-dotenv
+langchain
+langchain-deepseek
+faiss-cpu
